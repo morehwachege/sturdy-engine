@@ -1,0 +1,1 @@
+window.onload = function(){ document.getElementById("preloader-div").style.display = "none" }
